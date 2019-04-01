@@ -1,29 +1,10 @@
-# vuecli3-pug-sample
+# VueCLI3で「Pug」を導入する用のリポジトリ
 
-## Project setup
-```
-yarn install
-```
+ブログURLは[こちら ※投稿後にリンクはります]()
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+## セットアップ・起動
 
-### Compiles and minifies for production
+```bash
+yarn
+yarn serve
 ```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
